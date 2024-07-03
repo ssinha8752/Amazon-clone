@@ -1,0 +1,29 @@
+/* Styles for HomePage */
+
+.home {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1500px;
+}
+
+.home_container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-bottom: 40px;
+}
+
+.home_img {
+    width: 100%;
+    height: auto;
+    margin-bottom: -200px; /* Adjust this value based on your image height */
+}
+
+.home_row {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    gap: 0px;
+    z-index: 1;
+    position: relative;
+}

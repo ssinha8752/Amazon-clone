@@ -1,0 +1,53 @@
+/* Styles for Product Card */
+
+.product {
+    border: 1px solid #ddd;
+    overflow: hidden;
+    margin: 0px 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+}
+
+.product:hover {
+    transform: scale(1.05);
+}
+
+.product_info {
+    background-color: white;
+    margin: 10px 0px;
+    padding: 20px;
+}
+
+.product_info p {
+    margin: 5px 0;
+    color: #333;
+}
+
+.product_rating {
+    color: #f0c14b;
+    margin: 10px 0;
+}
+
+.product_image {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.product button {
+    background-color: #ff9900;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.product button:hover {
+    background-color: #e68a00;
+}
