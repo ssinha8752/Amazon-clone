@@ -7,9 +7,10 @@
 }
 
 .home_container {
-    position: relative;
-    width: 100%;
+    position: absolute;
+    width: 80%;
     height: auto;
+    align-items: center;
     margin-bottom: 40px;
 }
 
@@ -22,8 +23,12 @@
 .home_row {
     display: flex;
     justify-content: center;
-    margin: 20px 0;
+    margin: 20px;
     gap: 0px;
     z-index: 1;
     position: relative;
+}
+
+.home_row_container{
+    margin-top: -400px;
 }
