@@ -1,17 +1,14 @@
 import React from 'react'
 import './Product.css'
 
-function Product (){
+function Product ({ item_name, price, source_image }){
   return (
     <div className='product'>
         <div className='product_info'>
-            <strong> Title</strong>
-            <p> $200</p>
-            <div className='product_rating'>
-                ****
-            </div>
-            <img src='https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='' className='product_image' />
-            <button>Add to Basket</button>
+          <h3>{item_name}</h3>
+          <p>${price.toFixed(2)}</p>
+          <img src={source_image} alt={item_name} className="product_image" />
+          <button>Add to Basket</button>
         </div>
     </div>
   )
