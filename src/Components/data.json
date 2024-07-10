@@ -1,0 +1,30 @@
+{
+    "products": [
+      {
+        "item_name": "Stylish Summer Dress",
+        "price": 49.99,
+        "source_image": "https://example.com/images/summer-dress.jpg"
+      },
+      {
+        "item_name": "Comfortable Running Shoes",
+        "price": 89.99,
+        "source_image": "https://example.com/images/running-shoes.jpg"
+      },
+      {
+        "item_name": "High-Quality Wireless Headphones",
+        "price": 129.99,
+        "source_image": "https://example.com/images/wireless-headphones.jpg"
+      },
+      {
+        "item_name": "Modern Leather Sofa",
+        "price": 999.99,
+        "source_image": "https://example.com/images/leather-sofa.jpg"
+      },
+      {
+        "item_name": "Exclusive Designer Handbag",
+        "price": 399.99,
+        "source_image": "https://example.com/images/designer-handbag.jpg"
+      }
+    ]
+  }
+  
