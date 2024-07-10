@@ -3,27 +3,27 @@
       {
         "item_name": "Stylish Summer Dress",
         "price": 49.99,
-        "source_image": "https://example.com/images/summer-dress.jpg"
+        "source_image": "https://images.pexels.com/photos/1148957/pexels-photo-1148957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "item_name": "Comfortable Running Shoes",
         "price": 89.99,
-        "source_image": "https://example.com/images/running-shoes.jpg"
+        "source_image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "item_name": "High-Quality Wireless Headphones",
         "price": 129.99,
-        "source_image": "https://example.com/images/wireless-headphones.jpg"
+        "source_image": "https://images.pexels.com/photos/3587478/pexels-photo-3587478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "item_name": "Modern Leather Sofa",
         "price": 999.99,
-        "source_image": "https://example.com/images/leather-sofa.jpg"
+        "source_image": "https://images.pexels.com/photos/276566/pexels-photo-276566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "item_name": "Exclusive Designer Handbag",
         "price": 399.99,
-        "source_image": "https://example.com/images/designer-handbag.jpg"
+        "source_image": "https://images.pexels.com/photos/2393813/pexels-photo-2393813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       }
     ]
   }
